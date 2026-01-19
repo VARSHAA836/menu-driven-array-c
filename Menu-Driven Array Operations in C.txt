@@ -1,0 +1,25 @@
+Menu-Driven Array Operations in C
+
+** Project Description
+This is a simple menu-driven C program to perform basic operations on an array.  
+
+The program allows the user to:
+- Insert elements
+- Delete elements
+- Search for an element
+- Display all elements
+It is implemented using arrays, functions, and switch-case statements.
+
+** Features
+- Dynamic insertion of elements (up to 100)
+- Deletion by value
+- Searching by value
+- Display current array contents
+- User-friendly menu interface
+
+** Concepts Used
+- Arrays
+- Functions
+- Loops
+- Switch-case statements
+- Basic input/output in C
